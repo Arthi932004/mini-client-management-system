@@ -188,8 +188,9 @@ JWT_SECRET=your_secret_key
 
 Client information and user authentication details are stored in MongoDB.
 
-![alt text](<Screenshot 2026-11-04 165635.png>)
-![alt text](<Screenshot 2026-11-04 165649.png>)
+<img width="1890" height="900" alt="Screenshot 2026-11-04 165635" src="https://github.com/user-attachments/assets/c24b5465-464a-4828-a163-9ad8d1565a31" />
+
+<img width="1828" height="843" alt="Screenshot 2026-11-04 165649" src="https://github.com/user-attachments/assets/7478d88f-524c-4bed-8029-eae5090acbe6" />
 
 
 ## API Endpoints
