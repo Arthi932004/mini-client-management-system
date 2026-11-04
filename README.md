@@ -74,52 +74,10 @@
 
 ## Project Folder Structure
 
-client-management-system/
-│
-├── backend/
-│   ├── config/
-│   │   └── db.js
-│   ├── middleware/
-│   │   └── authMiddleware.js
-│   ├── models/
-│   │   ├── Client.js
-│   │   └── User.js
-│   ├── routes/
-│   │   ├── authRoutes.js
-│   │   └── clientRoutes.js
-│   ├── .env
-│   ├── package.json
-│   ├── resetPassword.js
-│   └── server.js
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── api/
-│   │   │   └── axios.js
-│   │   ├── assets/
-│   │   ├── components/
-│   │   │   └── ProtectedRoute.jsx
-│   │   ├── context/
-│   │   │   └── AuthContext.jsx
-│   │   ├── pages/
-│   │   │   ├── Clients.css
-│   │   │   ├── Clients.jsx
-│   │   │   ├── Dashboard.css
-│   │   │   ├── Dashboard.jsx
-│   │   │   ├── Login.css
-│   │   │   └── Login.jsx
-│   │   ├── App.css
-│   │   ├── App.jsx
-│   │   ├── index.css
-│   │   └── main.jsx
-│   ├── eslint.config.js
-│   ├── index.html
-│   ├── package.json
-│   └── vite.config.js
-│
-└── .gitignore
+<img width="381" height="457" alt="Screenshot 2026-11-04 192015" src="https://github.com/user-attachments/assets/55e07364-f1b9-4943-b7aa-cbfbc01cd5e5" />
 
+<img width="445" height="550" alt="Screenshot 2026-11-04 192039" src="https://github.com/user-attachments/assets/4e5b357c-12b9-44d2-99c8-0d2d7c23c6bc" />
+<img width="252" height="257" alt="Screenshot 2026-11-04 192053" src="https://github.com/user-attachments/assets/c97a138c-0cf6-43bd-bdbe-c0bbf6dcbe2b" />
 
 
 
